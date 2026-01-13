@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanni Sahu</h1>
-<h3 align="center">Backend-Focused Software Engineer from India 🇮🇳</h3>
+<h3 align="center">Software Engineer from India 🇮🇳</h3>
 
 <p align="center">
   <a href="https://twitter.com/sannisahu19" target="_blank">
