@@ -13,10 +13,10 @@
 
 - 🔭 Currently working as **Associate Software Analyst @ Amicus Technology**
 - 💼 Backend development experience with **Node.js, SQL, ETL & enterprise systems**
-- 🌱 Actively learning **T3 Stack (Next.js, TypeScript, tRPC, Prisma)**
+- 🌱 Actively learning Labware Lims , Sql Server , ETL , SSMS ,SSIS.
 - 🧠 Strong interest in **scalable backend systems & data engineering**
 - 👯 Open to collaborating on **real-world industry projects**
-- 🤝 Looking for guidance and best practices in **Next.js & system design**
+- 🤝 Looking for guidance and best practices in **system design**
 - 👨‍💻 Portfolio: [chat-portfolio-ssahu.netlify.app](https://chat-portfolio-ssahu.netlify.app)
 - 💬 Ask me about **Node.js, MongoDB, SQL, PHP, ETL**
 - 📫 Reach me at **sannisahu19@gmail.com**
